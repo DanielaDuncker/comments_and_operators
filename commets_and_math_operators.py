@@ -59,3 +59,7 @@ z = x + y
 print(z)
 
 print("hello")
+
+print("sup")
+
+print("moro")
