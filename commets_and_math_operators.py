@@ -63,3 +63,9 @@ print("hello")
 print("sup")
 
 print("moro")
+
+print("please toimi")
+
+print("toimisko nyt?")
+
+print("miks kaikki on perseestä?")
